@@ -26,3 +26,5 @@ chgrp {command changes the group ownership of a file.}
 usermod { Change things of the USER, for e.g (--groups testgroup1 --append) adds testgroup1 to the group list of USER }
 groups
 touch
+rmdir
+rm
