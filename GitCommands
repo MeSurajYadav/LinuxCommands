@@ -20,5 +20,8 @@ x. GIT REMOTE SET KARANE	-> To setup the git remote we use this command, we need
 4. git merge .....
 4. git pull  .....
 
+5. git checkout b6e87f	-> To checkout another commit, Oh man!
+5. git log		-> To see the commits in the current branch
+5. git restore		-> To revert the changes in the working
 
 
