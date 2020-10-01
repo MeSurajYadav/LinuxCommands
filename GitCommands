@@ -1,0 +1,24 @@
+1. git init		->
+0. 	lil info	-> create .gitignore file and mention files that you want git to not to touch anytime
+0. 	lil info 	-> there are three areas 1. workspace, 2. index, 3. repo
+0. 	lil info 	-> Looks like workspace and index are independant of branches of repo's. Wow
+1. git add . 		-> Do changes in workspace and fire this command
+1. git commit -m 	-> If you are satisfied with the index and want to update repo with new version kind, then fire this command
+2. git branch bname	-> To avail branches, create one using this command
+1. git status		-> To check status of workspace,index and repo we have this command
+1. git branch -a	-> To check status of branches we have "git branch -a"
+2. git checkout bname	-> To activate the bname branch
+x. git config --list		-> To see the git configuration
+x. git config user.name "uname" -> 
+x. git config user.email "mid"  ->
+x. git remote --verbose		-> To check the status of remotes that we have setup already
+x. git clone xxx.git		-> To git init from another repo (clone of git)
+x. GIT REMOTE SET KARANE	-> To setup the git remote we use this command, we needed not to do this coz we have cloned from existing repo in github, i think.
+3. git push origin master	-> To push current repo(i think) to remote master branch (IMP: not current master into origin remote)
+0. 	lil into	->	git(pull=fetch+merge)
+4. git fetch .....
+4. git merge .....
+4. git pull  .....
+
+
+
